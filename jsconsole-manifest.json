@@ -1,0 +1,16 @@
+{
+  "name": "Javascript Console",
+  "short_name": "JS Console",
+  "start_url": "https://jsconsole.com",
+  "icons": [
+    {
+      "src": "https://jsconsole.com/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "description": "Progressive web app for https://jsconsole.com"
+}
